@@ -190,11 +190,11 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 ###III. __Wednesday 9/16__: _Argumentative Scaffolding_
 - Assigned readings:
 	- __Hirsch__, Marianne and Leo __Spitzer__, _"We Would Not Have Come Without You": Generations of Nostalgia_
-	- __Booth__, _Wayne C._, Gregory G. __Colomb__, and Joseph M. __Williams__, _From Questions to Problems_ (from _The Craft of Research_)
 - Assigned exercise:
-	- A developed __hermeneutic circle__ from an _interpretive problem_ in either __Cohen__ or __Hirsch__ (~400 w.)
+	- __Summary__ and a developed __hermeneutic circle__ from an _interpretive problem_ in __Hirsch__ (~300 w.)
 - In-class materials:
 	- __Little Red Schoolhouse__, _What Is a Problem?_
+	- __Booth__, _Wayne C._, Gregory G. __Colomb__, and Joseph M. __Williams__, _From Questions to Problems_ (from _The Craft of Research_)
 
 ###IV. __Monday 9/21__: _Good Manners and Reader-Based Prose_
 - Assigned readings:
