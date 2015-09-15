@@ -198,15 +198,17 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 ###IV. __Monday 9/21__: _Good Manners and Reader-Based Prose_
 - Assigned readings:
-	- __Williams__, Joseph M. and  Joseph __Bizup__, _Understanding Style_ (from _Style: Lessons in Clarity and Grace_)
+	- __Bahk__, Sue, _The Final Judgment in "Monster Culture"_ (from [The Morningside Review](http://morningsidereview.org/)) 
+		-__OR__ 
+	-__Another essay__ from the _Critical response_ section of [The Morningside Review](http://morningsidereview.org/)	
 - Assigned exercise:
 	- __!__ - __Exploratory draft__ for __P1__ (~800-1000 w.)
 - In-class materials:
 	- __Flower__, Linda, _Writer-Based Prose: A Cognitive Basis for Problems in Writing_
+	- __Williams__, Joseph M. and  Joseph __Bizup__, _Understanding Style_ (from _Style: Lessons in Clarity and Grace_)
 
 ###V. __Wednesday 9/23__: _Telling It Right 1: Actions and Characters_
 - Assigned readings:
-	- __Bahk__, Sue, _The Final Judgment in "Monster Culture"_ (from [The Morningside Review](http://morningsidereview.org/))
 	- __Williams__, Joseph M. and  Joseph __Bizup__, _Actions_ and _Characters_ (from _Style: Lessons in Clarity and Grace_)
 	- __Orwell__, George, _Politics and the English Language_
 - Assigned exercise: 
