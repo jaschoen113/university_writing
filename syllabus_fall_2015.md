@@ -199,7 +199,9 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 ###IV. __Monday 9/21__: _Good Manners and Reader-Based Prose_
 - Assigned readings:
 	- __Bahk__, Sue, _The Final Judgment in "Monster Culture"_ (from [The Morningside Review](http://morningsidereview.org/)) 
+	
 		-__OR__ 
+
 	-__Another essay__ from the _Critical response_ section of [The Morningside Review](http://morningsidereview.org/)	
 - Assigned exercise:
 	- __!__ - __Exploratory draft__ for __P1__ (~800-1000 w.)
