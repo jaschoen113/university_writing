@@ -212,22 +212,21 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 ###V. __Wednesday 9/23__: _Telling It Right 1: Actions and Characters_
 - Assigned readings:
 	- __Williams__, Joseph M. and  Joseph __Bizup__, _Actions_ and _Characters_ (from _Style: Lessons in Clarity and Grace_)
-	- __Orwell__, George, _Politics and the English Language_
 - Assigned exercise: 
 	- First revision: __two formal paragraphs__ and a revised __scaffolding__ (~700 w.)
-
-##__!__ - __Formal draft__ for __P1__ (~1000 w.) due __tomorrow__ (Thursday 9/24)!
+- In-class materials:
+	- __Klempay__, Jack, _The Definitively Non-Standard English of David Foster Wallace_ from [The Morningside Review](http://morningsidereview.org/essay/the-definitively-non-standard-english-of-david-foster-wallace/)
 
 ###VI. __Monday 9/28__: _Telling It Right 2: Surprising Your Reader_
 - Assigned readings:
-	- __Williams__, Joseph M. and Joseph __Bizup__, _Cohesion and Coherence_ and _Emphasis_ (from _Style: Lessons in Clarity and Grace_)
+	- __Williams__, Joseph M. and Joseph __Bizup__, _Cohesion and Coherence_ (from _Style: Lessons in Clarity and Grace_)
 	- __Another essay__ from the _Critical response_ section of [The Morningside Review](http://morningsidereview.org/)
 - Assigned exercise:
-	- _Peer review_ of your peer's _formal draft_ (~300 w.)
+	- __!__ - __Formal draft__ for __P1__ (~1200 w.)
 
 ###VII. __Wednesday 9/30__: _Introducing Interpretations_
 - Assigned readings:
-	- __Williams__, Joseph M. and Joseph __Bizup__, _Motivation_ and _Global Coherence_ (from _Style: Lessons in Clarity and Grace_)
+	- __Williams__, Joseph M. and Joseph __Bizup__, _Global Coherence_ (from _Style: Lessons in Clarity and Grace_)
 	- __Sontag__, Susan, _Against Interpretation_
 	- __Another essay__ from the _Critical response_ section of [The Morningside Review](http://morningsidereview.org/)
 - Assigned exercise:
