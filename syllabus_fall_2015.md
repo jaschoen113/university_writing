@@ -226,13 +226,13 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 ###VII. __Wednesday 9/30__: _Introducing Interpretations_
 - Assigned readings:
-	- __Williams__, Joseph M. and Joseph __Bizup__, _Global Coherence_ (from _Style: Lessons in Clarity and Grace_)
-	- __Sontag__, Susan, _Against Interpretation_
+	- __Williams__, Joseph M. and Joseph __Bizup__, _Motivation_ (from _Style: Lessons in Clarity and Grace_)
 	- __Another essay__ from the _Critical response_ section of [The Morningside Review](http://morningsidereview.org/)
 - Assigned exercise:
 	- Second revision (annotated): addressing two __higher order concerns__ (~700 W.)
 - In-class materials:
 	- __Little Red Schoolhouse__ on _Introductions_
+	- __Sontag__, Susan, _Against Interpretation_
 
 ##__!__ - __Final draft__ for __P1__ (1500-1800 w.) due this __Sunday__ (10/4)!
 
