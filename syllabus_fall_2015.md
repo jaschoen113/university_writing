@@ -240,26 +240,21 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 ###VIII. __Monday, 10/5__: _Unending Conversations_
 
-- Assigned readings:
-	- __Back__, Les and Vibeke __Quaade__, _Dream Utopias, Nightmare Realities: Imagining Race and Culture within the World of Benetton Advertising_
-	- __Barthes__, Roland, _Myth Today_ (from _Mythologies_, pp. 254-274)
-	- __Benjamin__, Walter, _The Work of Art in the Age of Mechanical Reproduction_ (from _Illuminations: Essays and Reflections_, pp. 217-228)
-	- __Graff__, Gerald, and __Birkenstein__, Cathy, _Entering the Conversation_ (from _They Say / I Say_)
-- Assigned exercise:
-	- Questions and connections for the essays of __P1__ (~300 w.)
 - In-class materials:
 	- __Burke__, Kenneth, _Unending Conversation_
+	- __Nussbaum__, Martha, _Compassion and Terror_
+	- __Wall__, Jeff, _Dead Troops Talk_
 
 ###IX. __Wednesday, 10/7__: _Focus on the Exhibit_
 
 - Assigned readings:
-	- __Barthes__, Roland, _The Harcourt Actor_, _Romans in the Movies_, _Garbo's Face_, _Shock Photos_ (from _Mythologies_)
-	- __Hirsch__, Marianne, _Surviving Images: Holocaust Photographs and the Work of Postmemory_
-	- __Girma__, Ida Noel, _Let Me Rest a Little, Humankind_ (from [_The Morningside Review_](http://morningsidereview.org/essay/let-me-rest-a-little-humankind/))
+	- __Nussbaum__, Martha, _Compassion and Terror_
+	- __Hirsch__, Marianne, _Surviving Images_
+	- __Sontag__, Susan, _Regarding the Torture of Others_
 - Assigned exercise:
 	-  Imagining a parlor and a problem for the essays of __P1__ and __P2__ (~500 w.)
 - In-class materials:
-	- __Wall__, Jeff, _Dead Troops Talk_
+	- __Barthes__, Roland, _The Harcourt Actor_, _Romans in the Movies_, _Garbo's Face_, _Shock Photos_ (from _Mythologies_)
 
 ###X. __Monday, 10/12__: _Doing Things With Sources_
 
@@ -273,7 +268,8 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 ###XI. __Wednesday, 10/14__: _From Quoting to Paraphrasing_
 
 - Assigned readings:
-	- __Sontag__, Susan, _Regarding the Torture of Others_
+	- __Hirsch__, Marianne, _Surviving Images: Holocaust Photographs and the Work of Postmemory_
+	- __Girma__, Ida Noel, _Let Me Rest a Little, Humankind_ (from [_The Morningside Review_](http://morningsidereview.org/essay/let-me-rest-a-little-humankind/))
 	- __Harris__, Joseph, _Coming to Terms_ (from _Rewriting: How To Do Things With Texts_)
 	- __Howard__, Rebecca Moore, Tanya K. __Rodrigue__, and Tricia C. __Serviss__, _Writing from Sources, Writing from Sentences_
 - Assigned exercise:
