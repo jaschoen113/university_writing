@@ -1,4 +1,4 @@
-#University Writing
+#University Writing: Contemporary Essays
 
 ##Exercise 2b: Exploratory Draft
 
