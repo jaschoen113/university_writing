@@ -20,6 +20,8 @@ An “exhibit” can be a text, an event, a performance, a speech, an image, or 
 
 3. Have cohesion and coherence in your prose on the sentence level and on the paragraph level.
 
+(Adapted from A. Ritzenberg and S. Schwartz) 
+
 ###The Burkean Parlor
 
 Imagine that you enter a parlor. You come late. When you arrive, others have long preceded you, and they are engaged in a heated discussion, a discussion too heated for them to pause and tell you exactly what it is about. In fact, the discussion had already begun long before any of them got there, so that no one present is qualified to retrace for you all the steps that had gone before. You listen for a while, until you decide that you have caught the tenor of the argument; then you put in your oar. Someone answers; you answer him; another comes to your defense; another aligns himself against you, to either the embarrassment or gratification of your opponent, depending upon the quality of your ally's assistance. However, the discussion is interminable. The hour grows late, you must depart. And you do depart, with the discussion still vigorously in progress.
