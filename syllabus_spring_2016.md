@@ -191,7 +191,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Assigned readings:
 	- __Booth__, _Wayne C._, Gregory G. __Colomb__, and Joseph M. __Williams__, _From Questions to Problems_ (from _The Craft of Research_)
 - Assigned exercise:
-	- A developed __hermeneutic circle__ from an _interpretive problem_ in either __Cohen__ or __Hirsch__ (~400 w.)
+	- A developed __hermeneutic circle__ (~400 w.)
 - In-class materials:
 	- __Little Red Schoolhouse__, _What Is a Problem?_
 
