@@ -1,35 +1,21 @@
-#University Writing: Contemporary Essays
+##University Writing: Contemporary Essays
 
-###Assignment Two: Conversation Essay
+#Assignment Two: Conversation Essay
 
-- Due Sunday, __November 1st__ 2015.
+- Due __Sunday, March 20th 2016__
 
-###Text
+Find an exhibit (see note below) that uses the word or concept of “education” or any variation of this word: e.g., “educator,” “educative,” etc. Make a claim about how “education” is being used and what it means in the context of your exhibit. Your argument should offer a close reading of your exhibit that engages the varying positions of 2-4 course readings that explore the meaning of “education.” By orchestrating and contributing to a scholarly conversation surrounding the meaning of “education,” your essay should bring the reader to a new understanding of your exhibit in relation to that conversation.
 
-Write an academic essay of __1800-2100__ words on a topic that engages three sources: two from the articles and book excerpts we’ve read in this class; the third source will be an __exhibit__, a real-world manifestation that speaks to some of the key issues in our texts. By bringing these two critical sources to bear on your exhibit, your essay will further this intellectual “conversation.” You will listen to what other writers are saying, and acknowledge and consider the meaning of what they say. Most importantly, you will expand the conversation by adding your own ideas to what’s been said, by generating your own observations and claims from the conversation you’ve staged. 
+A note about vocabulary: An “exhibit” can be a text, an event, a performance, a speech, an image, or anything that can be interpreted and carries the potential for rich analysis. We use the term “exhibit” rather than “example” to connote a site of sustained and expansive engagement. While an example merely affirms an argument, an exhibit is dynamic; indeed, the exhibit itself may raise problems with our status quo understanding. Through careful analysis, our developing ideas about the exhibit may change or challenge our initial assumptions.
 
-An “exhibit” can be a text, an event, a performance, a speech, an image, or anything that can be interpreted and carries the potential for rich analysis. We use the term “exhibit” rather than “example” to connote a site of sustained and expansive engagement. While an example merely affirms an argument, an exhibit is dynamic; indeed, the exhibit itself may raise problems with our status quo understanding. Through careful analysis, our developing ideas about the exhibit may change or challenge our initial assumptions. 
+The paper should be 1500-2000 words long (include a word count at the end of each draft).
 
-###Goals:
+##Goals:
 
-1. Continue to work on the goals from the first assignment: using the introduction to orient the reader and identify a textual problem; formulating a strong claim; establishing a motive; maintaining a coherent structure; using evidence fairly and persuasively.
+- Continue to work on the goals from the first assignment: using the __introduction__ to orient the reader and identify a textual __problem__; formulating a strong __claim__; establishing a __motive__; maintaining a coherent __structure__; using __evidence__ fairly and persuasively.
 
-2. Integrate your sources with deliberation and purpose.
-	- The sources can be used to establish the motive, provide key terms, support your claim, or argue with other interpretations.
-	- Practice ICE: introduce, cite, explain.
+- Integrate your __sources__ with deliberation and purpose. The sources can be used to establish the motive, provide __key terms__, support your claim, or argue with other interpretations. Document sources using the MLA in-text citation method. Include a works cited page. Practice __ICE__: introduce, cite, explain. At least two of the sources should come from the second progression.
 
-3. Have cohesion and coherence in your prose on the sentence level and on the paragraph level.
+- Have __cohesion__ and __coherence__ in your prose on the sentence level and on the paragraph level. Your diction should be precise. Avoid clichés of language and clichés of thought.
 
-(Adapted from A. Ritzenberg and S. Schwartz) 
-
-###The Burkean Parlor
-
-Imagine that you enter a parlor. You come late. When you arrive, others have long preceded you, and they are engaged in a heated discussion, a discussion too heated for them to pause and tell you exactly what it is about. In fact, the discussion had already begun long before any of them got there, so that no one present is qualified to retrace for you all the steps that had gone before. You listen for a while, until you decide that you have caught the tenor of the argument; then you put in your oar. Someone answers; you answer him; another comes to your defense; another aligns himself against you, to either the embarrassment or gratification of your opponent, depending upon the quality of your ally's assistance. However, the discussion is interminable. The hour grows late, you must depart. And you do depart, with the discussion still vigorously in progress.
-
-__Burke__, Kenneth, _The Philosophy of Literary Form_ (110-111)
-
-###Booth's rule
-
-Whether I call on you or you speak spontaneously, please address the previous speaker, _or_ give a reason for changing the subject.
-
-__Booth__, Wayne, _The Vocation of a Teacher_ (215)
+- Have an interesting and informative __title__.

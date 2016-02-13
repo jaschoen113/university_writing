@@ -248,23 +248,21 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 ###IX. __Wednesday, 2/17__: _Focus on the Exhibit_
 
 - Assigned readings:
-	- __Nussbaum__, Martha, _Compassion and Terror_
-    	- __Hirsch__, Marianne, _Surviving Images_
-    	- __Sontag__, Susan, _Looking at War_
+	- __Edmundson__, Mark, _Who Are You and What Are You Doing Here?_
 - Assigned exercise:
-	-  Three texts in conversation and potential exhibits (~200 w.)
+	-  Texts in conversation (~300 w.)
 - In-class materials:
-	- __Barthes__, Roland, _The Harcourt Actor_, _Romans in the Movies_, _Garbo's Face_, _Shock Photos_ (from _Mythologies_)	
+	- __Pfander__, Blair, _Crazy, Sexy, Salty_,  (from _The Morningside Review_)
 
 ###X. __Monday, 2/22__: _Doing Things With Sources_
 
 - Assigned readings:
 	- __Graff__, Gerald, and __Birkenstein__, Cathy, _They Say_ (from _They Say / I Say_)
+	- __Rex__, Lesley A., _Loss of the Creature: The Obscuring of Inclusivity in Classroom Discourse_
 - Assigned exercise:
-	-  __!__ - __Exploratory draft__ for __P2__ (~1000-1200 w.)
+	- Three potential exhibits (~500 w.)
 - In-class materials:
-	- __Bizup__, Joseph, _Developing a Vocabulary for Talking About Sources (BEAM)_
-	- __Girma__, Ida Noel, _Let Me Rest a Little, Humankind_ (from The Morningside Review)
+	- Bizup, Joseph, Developing a Vocabulary for Talking About Sources (BEAM)
 
 ###XI. __Wednesday, 2/24__: _From Quoting to Paraphrasing_
 
